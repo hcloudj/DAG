@@ -3,7 +3,7 @@
 > More details of this project will be released soon.
 
 # Benchmark
-![benchmark](./figures/benchmark.png)
+![benchmark](./figures/overall.png)
 
 # Visualization
-![outcome](./figures/outcome.png)
+![outcome](./figures/ablation.png)
