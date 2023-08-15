@@ -5,5 +5,5 @@
 # Benchmark
 ![benchmark](./figures/overall.png)
 
-# Visualization
+# Ablation
 ![outcome](./figures/ablation.png)
