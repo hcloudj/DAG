@@ -8,7 +8,7 @@ The DAG approach addresses the limitations of the traditional uniform message-pa
 The Inter-node Representation Encoding (IRE) branch analyzes differences among nodes on the graph and examines the contribution of neighboring nodes. On the other hand, the Intra-node Contextual Reasoning (ICR) branch explores individual node attributes and dynamically updates the feature matrix of graph nodes based on the current node category. By combining these two branches, DAG facilitates more effective information propagation and enhances node classification performance.
 
 # ICR Module
-![icr](./figures/ablation.png)
+![icr](./figures/whole.jpg)
 
 # Ablation
 ![ablation](./figures/ablation.png)
