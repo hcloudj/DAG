@@ -15,14 +15,14 @@ The ICR can be divided into two interconnected sequential modules, FC and FD, wh
 ![icr](./figures/whole.jpg)
 
 # Experiments and Results
-**Datesets**
+## Datesets
 ![dataset](./figures/dataset.png)
 
-**Results on Homophily Graph Datasets**
+## Results on Homophily Graph Datasets
 ![results1](./figures/result1.png)
 
-**Results on Heterophily Graph Datasets**
+## Results on Heterophily Graph Datasets
 ![results2](./figures/result2.png)
 
-**Ablation**
+## Ablation
 ![ablation](./figures/ablation.png)
